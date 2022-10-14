@@ -1,3 +1,3 @@
 Frogger Game 
 
-[Live Demo](https://rosus89.github.io/Arcade-Game/)
+[Live Demo](https://rosus89.github.io/Frogger/)
